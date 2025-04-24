@@ -59983,8 +59983,8 @@ loc_2F4A6:
 	tst.b	objoff_3E(a0)
 	bne.s	loc_2F4D0
 	move.b	#$20,objoff_3E(a0)
-	move.w	#$AC,d0
-	jsr	(PlaySound).l
+	
+	GEMS_PlaySound	$2B
 
 loc_2F4D0:
 	lea	(Normal_palette_line2+2).w,a1

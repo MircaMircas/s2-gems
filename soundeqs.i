@@ -10,6 +10,7 @@ GameOverMus	=	$13
 SegaSFX		=	$14
 DrownMus	=	$16
 TwinkleSFX	=	$28
+BossHitSFX	=	$2B
 TallySFX	=	$4D
 SignSFX		=	$5E
 RollSFX		=	$66
@@ -41,4 +42,5 @@ RingLossSFX	=	$00
 BeepSFX		=	$00
 RingSFX		=	$00
 JumpSFX		=	$00
+BossHitSFX	=	$00
 	endif
