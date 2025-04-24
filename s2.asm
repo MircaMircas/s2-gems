@@ -59984,7 +59984,7 @@ loc_2F4A6:
 	bne.s	loc_2F4D0
 	move.b	#$20,objoff_3E(a0)
 	
-	GEMS_PlaySound	$2B
+	GEMS_PlaySound	BossHitSFX
 
 loc_2F4D0:
 	lea	(Normal_palette_line2+2).w,a1
