@@ -14,13 +14,13 @@ BossHitSFX	=	$2B
 TallySFX	=	$4D
 SignSFX		=	$5E
 RollSFX		=	$66
-SpinDashSFX	=	$6F
-DashSFX		=	$70
+SpinDashSFX	=	$70
+DashSFX		=	$7D
 SkidSFX		=	$73
 RingLossSFX	=	$75
 BeepSFX		=	$7A
 RingSFX		=	$7C
-JumpSFX		=	$7D
+JumpSFX		=	$6F
 	else
 BossMus		=	$00
 LevelMus	=	$01
